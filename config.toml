@@ -1,3 +1,4 @@
-baseURL = ""
+baseURL = "https://balloondesignbyjess.github.io/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Balloon Design By Jess"
+publishDir = "balloondesignbyjess.github.io"
